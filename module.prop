@@ -1,0 +1,7 @@
+id=ios13emoji
+name=iOS 13.2 Emojis
+version=v1.0
+versionCode=1
+author=Tycho Regter
+description=Systemlessly replaces your default emojis with the iOS 13.2 emojis.
+minMagisk=17000
